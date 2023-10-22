@@ -44,7 +44,7 @@ class QLearningAgent(ReinforcementAgent):
 
         "*** YOUR CODE HERE ***"
 
-        # Do this lolololol
+        # Do this
 
     def getQValue(self, state, action):
         """
