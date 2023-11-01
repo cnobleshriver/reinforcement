@@ -184,6 +184,7 @@ class ApproximateQAgent(PacmanQAgent):
            Should update your weights based on transition
         """
         "*** YOUR CODE HERE ***"
+        # TEST
         util.raiseNotDefined()
 
     def final(self, state):
